@@ -29,7 +29,7 @@ Built while taking **"JavaScript for Beginners"** by Nomad Coders.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/js-web-toolbox.git
+git clone https://github.com/ksy1231/js-web-toolbox.git
 ```
 
 2. Open `index.html` in a browser.
